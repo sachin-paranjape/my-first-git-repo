@@ -13,4 +13,3 @@ A lightweight to-do list app built in C++ with a simple GUI using the FLTK toolk
 ```bash
 g++ todo_gui.cpp -o todo_gui `fltk-config --cxxflags --ldflags`
 ./todo_gui
-```bash
